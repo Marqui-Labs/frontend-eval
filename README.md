@@ -94,4 +94,6 @@ Body (example):
 ## ⚠️ Important Notes
 - We care more about **your thought process and execution** than just the final code.
 
-Reach out with any questions or concerns as needed!
+Thank you! 
+
+P.S. Reach out with any questions or concerns as needed.
