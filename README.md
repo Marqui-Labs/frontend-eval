@@ -14,7 +14,7 @@ You are free to use **any front-end framework or vanilla JavaScript**. The goal 
 
 ## 📌 Requirements
 
-### 1️⃣ UI Component Replication (Attention to Detail & Design System)
+### 1️⃣ UI Component Creation
 Create a visually polished User Profile Card component that is compact yet spacious, minimal yet bold, and uses subtle but noticeable icons for additional actions.
 
 ### **Component Requirements:**
