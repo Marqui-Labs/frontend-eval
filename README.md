@@ -2,9 +2,9 @@
 
 ## Overview
 Welcome to our Front-End Developer Technical Assessment! This challenge is designed to evaluate your ability to:
-- Recreate a given **UI component** with attention to detail
+- Create a new **User Profile Card** UI Component
 - Handle **data fetching** efficiently
-- Implement a **form submission workflow** with API integration
+- Implement a basic **flagging** feature
 - Ensure **responsiveness, accessibility, and UX micro-interactions**
 - Write **clean, modular, and maintainable code**
 
