@@ -82,11 +82,11 @@ Body (example):
 ---
 
 ## 📂 Submission Guidelines
-1. **Fork this repo** and complete the assignment in your own repository.
-2. **Push incremental commits** (we'll check commit history for logical progress).
-3. **Submit your final GitHub repo link**.
+1. **Create a new GitHub repository** for this assessment.
+2. **Complete the assessment** in your repo, making regular commits.
+3. **Send over your GitHub repo link** when you're finished.
 
-🔹 **Bonus:** Attach a short **README write-up** explaining your approach.
+🔹 **Bonus:** Include a short **README write-up** explaining your approach.
 
 ---
 
