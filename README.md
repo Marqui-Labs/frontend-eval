@@ -58,17 +58,24 @@ Each User Profile Card should include a "Flag" icon/button in the upper-right co
 - The flag icon should visually differ between flagged/not-flagged states.
 - Prevent duplicate flagging (e.g., disable button after submission).
 
+#### Notes on Directus:
+- Directus is a headless CMS and API-driven database similar to WordPress but with full flexibility. You’ll be interacting with it like a standard REST API.
+- I've created a collection called `fe_flagged_users` which has one field that you'll post the data to `flagged_user_data`.
+- Append your own name to the object so we know it was coded by you.
  
 #### **Directus API Endpoint (open; no auth required):**
 ```
 POST https://mlabs.directus.app/items/fe_flagged_users
 Body (example):
 {
-  "photo_url": "https://randomuser.me/api/portraits/men/1.jpg",
-  "first_name": "John",
-  "last_name": "Doe",
-  "email": "john.doe@example.com",
-  "country": "United States"
+  "flagged_user_data": {
+    "photo_url": "https://randomuser.me/api/portraits/men/1.jpg",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "country": "United States",
+    "dev": <include your own name here>
+  }
 }
 ```
 
